@@ -5,3 +5,10 @@ C:\Users\Julia\Documents\repos\c#\esperanca-matematica\esperanca-matematica\obj\
 C:\Users\Julia\Documents\repos\c#\esperanca-matematica\esperanca-matematica\obj\Debug\esperanca-matematica.csproj.CoreCompileInputs.cache
 C:\Users\Julia\Documents\repos\c#\esperanca-matematica\esperanca-matematica\obj\Debug\esperanca-matematica.exe
 C:\Users\Julia\Documents\repos\c#\esperanca-matematica\esperanca-matematica\obj\Debug\esperanca-matematica.pdb
+C:\Users\Julia\Documents\repos\c#\probabilidade-e-estatistica\esperanca-matematica\esperanca-matematica\bin\Debug\esperanca-matematica.exe.config
+C:\Users\Julia\Documents\repos\c#\probabilidade-e-estatistica\esperanca-matematica\esperanca-matematica\bin\Debug\esperanca-matematica.exe
+C:\Users\Julia\Documents\repos\c#\probabilidade-e-estatistica\esperanca-matematica\esperanca-matematica\bin\Debug\esperanca-matematica.pdb
+C:\Users\Julia\Documents\repos\c#\probabilidade-e-estatistica\esperanca-matematica\esperanca-matematica\obj\Debug\esperanca-matematica.csproj.AssemblyReference.cache
+C:\Users\Julia\Documents\repos\c#\probabilidade-e-estatistica\esperanca-matematica\esperanca-matematica\obj\Debug\esperanca-matematica.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\repos\c#\probabilidade-e-estatistica\esperanca-matematica\esperanca-matematica\obj\Debug\esperanca-matematica.exe
+C:\Users\Julia\Documents\repos\c#\probabilidade-e-estatistica\esperanca-matematica\esperanca-matematica\obj\Debug\esperanca-matematica.pdb
